@@ -22,6 +22,7 @@ Network programming with Go 中文翻译版本
 - Border
 - 微尘
 - chenzhekl
+- mars-re
 
 ## 翻译计划
 
